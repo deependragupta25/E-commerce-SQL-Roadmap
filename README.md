@@ -1,4 +1,4 @@
-# 📘 E-commerce SQL Roadmap
+<img width="322" height="69" alt="image" src="https://github.com/user-attachments/assets/593a92a3-8e84-48a9-b134-ed15224053e8" /># 📘 E-commerce SQL Roadmap
 
 ## 130 Business SQL Problems & Solutions
 
@@ -31,6 +31,7 @@ This repository contains my SQL learning portfolio consisting of **130 business-
 
 - PostgreSQL
 - SQL
+- github
 
 ---
 
@@ -57,4 +58,4 @@ My next learning milestones include:
 
 ---
 
-### Created by DG
+### Created by DEEPENDRA GUPTA
