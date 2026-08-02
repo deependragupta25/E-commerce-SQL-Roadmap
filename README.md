@@ -1,5 +1,3 @@
-<img width="322" height="69" alt="image" src="https://github.com/user-attachments/assets/593a92a3-8e84-48a9-b134-ed15224053e8" /># 📘 E-commerce SQL Roadmap
-
 ## 130 Business SQL Problems & Solutions
 
 **PostgreSQL | Data Analytics | Business Reporting**
